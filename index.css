@@ -107,7 +107,7 @@ body {
 .size-btn{
     align-self: center;
     flex-grow: 0;
-    margin-bottom: 72px;
+    margin-bottom: 40px;
     padding: 8px 24px;
     background-color: rgb(180, 59, 180);
     color: white;
